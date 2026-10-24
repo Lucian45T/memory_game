@@ -1,0 +1,11 @@
+.gameCard { 
+    width: 70px;
+    height: 80px;
+    background-color: rgb(43, 70, 225);
+    border-radius: 10px;
+    opacity: 0;
+}
+.gameCard.active {
+  opacity: 1;
+} 
+
